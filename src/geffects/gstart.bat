@@ -1,0 +1,1 @@
+g:\Arduino\arduino-1.8.19\arduino.exe Aurora.ino
