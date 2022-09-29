@@ -321,6 +321,8 @@ void loop()
 	 size_t bytesRead = 0;
 	 int TempADC=0;
 	 
+	 loop_server();
+	 
 	 //Handle Userinterface
 	 {
 	  // set brightness and test if button is pressed
